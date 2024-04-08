@@ -138,6 +138,10 @@ a:hover {
     text-align: center;
 }
 
+button {
+    color: black;
+}
+
 .spazio {
     margin: auto 70px;
     display: inline;
